@@ -1,7 +1,7 @@
 # composer-cn
 启用了Packagist / Composer中国全量镜像的composer容器镜像
 
-[![DockerHub Badge](http://dockeri.co/image/zhangsean/hello-web)](https://hub.docker.com/r/zhangsean/hello-web/)
+[![DockerHub Badge](http://dockeri.co/image/zhangsean/composer-cn)](https://hub.docker.com/r/zhangsean/composer-cn/)
 
 ### 用法
 进入含有composer.json的项目文件夹，直接运行容器执行install即可：
