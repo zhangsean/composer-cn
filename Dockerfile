@@ -1,2 +1,2 @@
 FROM composer
-composer config -g repo.packagist composer https://packagist.phpcomposer.com
+RUN composer config -g repo.packagist composer https://packagist.phpcomposer.com
